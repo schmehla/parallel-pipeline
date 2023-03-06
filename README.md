@@ -1,10 +1,3 @@
-# Plots
-Plots can be found in /eval/plots_and_timings.
-![alt text](https://github.com/ruckdack/parallel-pipeline/blob/d3acc7f322c301eb299fab4fb812825ee405170d/eval/plots_and_timings/plots_as_images/0001.jpg)
-![alt text](https://github.com/ruckdack/parallel-pipeline/blob/d3acc7f322c301eb299fab4fb812825ee405170d/eval/plots_and_timings/plots_as_images/0002.jpg)
-![alt text](https://github.com/ruckdack/parallel-pipeline/blob/d3acc7f322c301eb299fab4fb812825ee405170d/eval/plots_and_timings/plots_as_images/0003.jpg)
-![alt text](https://github.com/ruckdack/parallel-pipeline/blob/d3acc7f322c301eb299fab4fb812825ee405170d/eval/plots_and_timings/plots_as_images/0004.jpg)
-
 # How to execute
 
 ## Data generation
@@ -30,3 +23,11 @@ to generate timings and plot them via
 python3 ../eval/plots.py
 ```
 from the build directory.
+
+# Plots
+Plots can be found in /eval/plots_and_timings.
+![alt text](https://github.com/ruckdack/parallel-pipeline/blob/d3acc7f322c301eb299fab4fb812825ee405170d/eval/plots_and_timings/plots_as_images/0001.jpg)
+![alt text](https://github.com/ruckdack/parallel-pipeline/blob/d3acc7f322c301eb299fab4fb812825ee405170d/eval/plots_and_timings/plots_as_images/0002.jpg)
+![alt text](https://github.com/ruckdack/parallel-pipeline/blob/d3acc7f322c301eb299fab4fb812825ee405170d/eval/plots_and_timings/plots_as_images/0003.jpg)
+![alt text](https://github.com/ruckdack/parallel-pipeline/blob/d3acc7f322c301eb299fab4fb812825ee405170d/eval/plots_and_timings/plots_as_images/0004.jpg)
+![alt text](https://github.com/ruckdack/parallel-pipeline/blob/d3acc7f322c301eb299fab4fb812825ee405170d/eval/plots_and_timings/plots_as_images/0005.jpg)
