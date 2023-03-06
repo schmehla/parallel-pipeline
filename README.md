@@ -1,6 +1,6 @@
 # Plots
 Plots can be found in /eval/plots_and_timings.
-[1](./eval/plots_and_timing/plot_as_images/0001.jpg)
+[alt text](https://github.com/ruckdack/parallel-pipeline/blob/d3acc7f322c301eb299fab4fb812825ee405170d/eval/plots_and_timings/plots_as_images/0001.jpg)
 
 # How to execute
 
