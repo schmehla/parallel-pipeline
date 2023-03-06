@@ -1,0 +1,8 @@
+build/
+*/build/*
+*.graph
+*.tags
+*.zip
+.vscode
+pipelines/
+tbb/
